@@ -24,3 +24,4 @@ def printer
   batch_badge_creator(arr)
   assign_rooms(list)
 end
+binding.pry
