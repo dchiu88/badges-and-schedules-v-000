@@ -21,7 +21,7 @@ end
 end
 
 def printer()
-  batch_badge_creator(array)
-  assign_rooms(list)
+  batch_badge_creator()
+  assign_rooms()
 end
 binding.pry
